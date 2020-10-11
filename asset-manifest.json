@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/uplussave_apply/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/uplussave_apply/static/js/main.422e49bc.chunk.js",
+    "main.js.map": "/uplussave_apply/static/js/main.422e49bc.chunk.js.map",
+    "runtime-main.js": "/uplussave_apply/static/js/runtime-main.9686d23e.js",
+    "runtime-main.js.map": "/uplussave_apply/static/js/runtime-main.9686d23e.js.map",
+    "static/js/2.53a9826a.chunk.js": "/uplussave_apply/static/js/2.53a9826a.chunk.js",
+    "static/js/2.53a9826a.chunk.js.map": "/uplussave_apply/static/js/2.53a9826a.chunk.js.map",
+    "index.html": "/uplussave_apply/index.html",
+    "precache-manifest.bfe5076bca96a3d02db7a9c971b8b99d.js": "/uplussave_apply/precache-manifest.bfe5076bca96a3d02db7a9c971b8b99d.js",
+    "service-worker.js": "/uplussave_apply/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/uplussave_apply/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.53a9826a.chunk.js.LICENSE.txt": "/uplussave_apply/static/js/2.53a9826a.chunk.js.LICENSE.txt",
+    "static/media/idcard_correct.png": "/uplussave_apply/static/media/idcard_correct.603c8e75.png",
+    "static/media/idcard_wrong.png": "/uplussave_apply/static/media/idcard_wrong.aaf1af9e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9686d23e.js",
+    "static/js/2.53a9826a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.422e49bc.chunk.js"
+  ]
+}
