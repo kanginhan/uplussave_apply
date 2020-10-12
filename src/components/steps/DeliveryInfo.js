@@ -16,7 +16,7 @@ const StyledFormControlLabel = withStyles({
             fontSize: "0.8rem",
             marginLeft: "0.5rem",
         },
-        "& .PrivateSwitchBase-root-3": {
+        "& .PrivateSwitchBase-root-6": {
             padding: "0",
         },
     },
@@ -87,7 +87,7 @@ const DeliveryInfo = ({ applyData, setApplyData, movePrev, moveNext, showAlert }
             ></InputControl>
 
             <StyledFormControlLabel
-                control={<Checkbox value={applyData.raddr_copy} color="default" onChange={handleCopyAddress} />}
+                control={<Checkbox checked={applyData.raddr_copy} color="secondary" onChange={handleCopyAddress} />}
                 label="가입정보 주소와 동일합니다"
             />
             <SubContainer>

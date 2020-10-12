@@ -32,7 +32,7 @@ const StyledFormControlLabel = withStyles({
 const ApplicantInfo = ({ applyData, setApplyData, movePrev, moveNext, showAlert }) => {
     const validate = () => {
         if (!applyData.uname) {
-            showAlert("신청자명을 입력해 주시기 바랍니다");
+            showAlert("가입자명을 입력해 주시기 바랍니다");
             return false;
         }
         if (!applyData.birth) {
@@ -142,8 +142,8 @@ const ApplicantInfo = ({ applyData, setApplyData, movePrev, moveNext, showAlert 
                 <InputControl
                     name="hpnumber1"
                     label="1순위"
-                    value={applyData.hpnumber}
-                    onChange={applyOf("hpnumber")}
+                    value={applyData.hpnumber1}
+                    onChange={applyOf("hpnumber1")}
                     maxLength="4"
                     numberOnly
                     marginleft

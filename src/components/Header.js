@@ -19,7 +19,7 @@ const LogoName = styled(Typography)`
 const Header = () => {
     return (
         <Container>
-            <LogoName variant="body2">(주)태화 U+ 알뜰모바일</LogoName>
+            <LogoName variant="body2">(주)인화 네트워크 U+ 알뜰모바일</LogoName>
             <Typography variant="h5">온라인 신청서</Typography>
         </Container>
     );
